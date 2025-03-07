@@ -1,2 +1,2 @@
-#RecycleView HardwareInformation
+*RecycleView HardwareInformation
 Belajar Android Studio
